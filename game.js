@@ -127,7 +127,7 @@ const textNodes = [
   },
   {
     id: 7,
-    text: 'Terwijl je het kasteel aan het verkennen bent,
+    text: 'Terwijl je het kasteel aan het verkennen bent',
     options: [
       {
         text: 'Probeer weg te rennen',
